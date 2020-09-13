@@ -4,4 +4,4 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zhangslob&show_icons=true&theme=dark)	
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangslob&theme=dark)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zhangslob.zhangslob)
