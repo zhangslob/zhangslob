@@ -1,4 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhangslob)](https://github.com/zhangslob/github-readme-stats)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=zhangslob&show_icons=true&theme=dark)	![Github Stats](https://github-readme-stats.vercel.app/api?username=zhangslob&show_icons=true&theme=dark)
+
+
+<!--	![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangslob&theme=dark)
